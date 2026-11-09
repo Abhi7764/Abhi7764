@@ -62,7 +62,7 @@ AWS • Docker • Git • Linux • CI/CD • Monitoring & Observability
 - 🔌 Integrated **MCP tools** with backend APIs and databases, enabling
   AI agents to retrieve real-time data and execute relevant actions.
 
-- ⚙️ Automated **20+ internal business workflows** using n8n, REST APIs,
+- ⚙️ Automated **10+ internal business workflows** using n8n, REST APIs,
   LLMs, scheduled and event-based triggers, Slack, and email workflows.
 
 - 🎯 Achieved **95% MMYT matching accuracy** through semantic matching,
